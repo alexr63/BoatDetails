@@ -191,7 +191,7 @@
         <WebProjectProperties>
           <UseIIS>True</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>0</DevelopmentServerPort>
+          <DevelopmentServerPort>28732</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
           <IISUrl>http://selectedhot.local/DesktopModules/BoatDetails</IISUrl>
           <OverrideIISAppRootUrl>True</OverrideIISAppRootUrl>
